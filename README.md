@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=2000&color=FFFFFF&background=000000&center=true&vCenter=true&multiline=true&random=false&width=2000&separator=%3C&lines=System.out.println(%22Welcome+to+YeKim's+Github!%22);)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&pause=1500&color=FFFFFF&background=000000&center=true&vCenter=true&random=false&width=2000&height=150&lines=Welcome+to+YeKim's+GitHub)](https://git.io/typing-svg)
 
 <h4 align="center">Tech Stack</h4>
 <div align="center">
