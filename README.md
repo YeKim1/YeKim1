@@ -37,4 +37,6 @@
   <a href="https://github.com/YeKim1/Duckku-be">[Duckku-be] 토큰형 음반 플랫폼</a>
   <br>
   <a href="https://github.com/YeKim1/lionz_study">[Lionz] 동아리 관리 플랫폼</a>
+  <br>
+  <a href="https://github.com/kt-techup-backend-team5/kt-techup-shopping">커머스 플랫폼</a>
 </p>
